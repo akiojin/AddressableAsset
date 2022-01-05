@@ -16,9 +16,9 @@ MonoBehaviour:
   m_InternalBundleIdMode: 1
   m_Compression: 1
   m_IncludeAddressInCatalog: 1
-  m_IncludeGUIDInCatalog: 1
+  m_IncludeGUIDInCatalog: 0
   m_IncludeLabelsInCatalog: 1
-  m_InternalIdNamingMode: 0
+  m_InternalIdNamingMode: 3
   m_CacheClearBehavior: 0
   m_IncludeInBuild: 1
   m_BundledAssetProviderType:
@@ -34,10 +34,10 @@ MonoBehaviour:
   m_RedirectLimit: -1
   m_RetryCount: 0
   m_BuildPath:
-    m_Id: a0e56c1dee4818d43b5b873117cbaf60
+    m_Id: e5ac1a8f9f8e4a442af11a6b626491a9
   m_LoadPath:
-    m_Id: d3a2224b1a22ccd49a2b6b9f90c141be
-  m_BundleMode: 2
+    m_Id: 56fa8a49b357c3b41b180977b41c61b0
+  m_BundleMode: 1
   m_AssetBundleProviderType:
     m_AssemblyName: Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
     m_ClassName: UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider

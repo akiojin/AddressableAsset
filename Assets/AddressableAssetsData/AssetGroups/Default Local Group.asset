@@ -15,18 +15,22 @@ MonoBehaviour:
   m_GroupName: Default Local Group
   m_Data:
     m_SerializedData: []
-  m_GUID: 4ed0d7f5f33d7b2489f95fd1bb9f576e
+  m_GUID: f7e3ab9fcaba235498a5d803b52b0de2
   m_SerializeEntries:
-  - m_GUID: cf6d5eccda563244095bf70e7d694608
-    m_Address: Node
-    m_ReadOnly: 0
-    m_SerializedLabels: []
   - m_GUID: 8a510ae03ebe23f4fb3ea5e62989bbe6
     m_Address: Dummy 1
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: 2fb1e157245971c458dd5976c651956b
     m_Address: Dummy 2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8e72cca606b2c024fa234687ec2e5396
+    m_Address: Dummy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cf6d5eccda563244095bf70e7d694608
+    m_Address: Node
     m_ReadOnly: 0
     m_SerializedLabels: []
   m_ReadOnly: 0
